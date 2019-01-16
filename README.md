@@ -8,7 +8,7 @@ Ce site est une mini médiathèque totalement opérationnelle. Il comprend notam
 - une barre de recherche  
 - l'utilisateur peut s'inscrire ou se connecter 
 - une fois connecté, l'utilisateur peut gérer les films c'est-à-dire en ajouter, en supprimer ou en modifier et ajouter des commentaires
-- une fois connecté, l'administrateur peut lui aussi les films et il peut en plus modifier les données des utilisateurs. Cependant, il ne peut pas de commentaires.
+- une fois connecté, l'administrateur peut lui aussi les gérer films et il peut en plus modifier les données des utilisateurs. Cependant, il ne peut pas laisser de commentaires.
 - le site peut encore subir des modifications telles que des ajouts de fonctionnalités
 Le projet contient tous les dossiers et fichiers nécessaires à son fonctionnement (y compris le fichier sql pour importer les tables de la base de donnée). 
 
