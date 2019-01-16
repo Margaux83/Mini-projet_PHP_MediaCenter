@@ -11,3 +11,9 @@ Ce site est une mini médiathèque totalement opérationnelle. Il comprend notam
 - une fois connecté, l'administrateur peut lui aussi les films et il peut en plus modifier les données des utilisateurs. Cependant, il ne peut pas de commentaires.
 - le site peut encore subir des modifications telles que des ajouts de fonctionnalités
 Le projet contient tous les dossiers et fichiers nécessaires à son fonctionnement (y compris le fichier sql pour importer les tables de la base de donnée). 
+
+![description_IMG](https://github.com/Margaux83/Mini-projet_PHP_MediaCenter/blob/master/Index.PNG) 
+![description_IMG](https://github.com/Margaux83/Mini-projet_PHP_MediaCenter/blob/master/connexion.PNG) 
+![description_IMG](https://github.com/Margaux83/Mini-projet_PHP_MediaCenter/blob/master/Panel.PNG) 
+![description_IMG](https://github.com/Margaux83/Mini-projet_PHP_MediaCenter/blob/master/Utilisateur.PNG) 
+![description_IMG](https://github.com/Margaux83/Mini-projet_PHP_MediaCenter/blob/master/commentaires.PNG) 
