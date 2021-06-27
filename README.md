@@ -17,3 +17,4 @@ Le projet contient tous les dossiers et fichiers nécessaires à son fonctionnem
 ![description_IMG](https://github.com/Margaux83/Mini-projet_PHP_MediaCenter/blob/master/Panel.PNG) 
 ![description_IMG](https://github.com/Margaux83/Mini-projet_PHP_MediaCenter/blob/master/Utilisateur.PNG) 
 ![description_IMG](https://github.com/Margaux83/Mini-projet_PHP_MediaCenter/blob/master/commentaires.PNG) 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=margaux83&repo=Mini-projet_PHP_MediaCenter)
